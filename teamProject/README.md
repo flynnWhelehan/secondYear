@@ -1,4 +1,4 @@
-# CS2810 Group 5 Project
+# CS2810 Group 5 Project - Copy (no contribution details etc...established in a private repo)
 
 
 | Element              | Status                                                                                                                                                        |
